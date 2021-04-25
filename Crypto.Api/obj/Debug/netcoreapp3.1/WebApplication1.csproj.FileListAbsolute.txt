@@ -1,0 +1,93 @@
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\mdaca\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\mdaca\source\repos\WebApplication1 - Copy\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
