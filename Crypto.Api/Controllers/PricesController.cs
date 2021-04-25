@@ -28,7 +28,7 @@ namespace Crypto.Api.Controllers
             if (!pricesResponse.Success)
                 return BadRequest(pricesResponse.Message);
             
-            return Ok(pricesResponse);
+            return Ok(pricesResponse.Prices);
         }
     }
 }
